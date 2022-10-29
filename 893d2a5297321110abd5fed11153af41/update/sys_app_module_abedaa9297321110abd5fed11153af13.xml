@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish List">67eda65297321110abd5fed11153af2e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_922021_wish_list_wish_item</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 21:13:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abedaa9297321110abd5fed11153af13</sys_id>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_922021_wish_list">893d2a5297321110abd5fed11153af41</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">893d2a5297321110abd5fed11153af41</sys_scope>
+        <sys_update_name>sys_app_module_abedaa9297321110abd5fed11153af13</sys_update_name>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
